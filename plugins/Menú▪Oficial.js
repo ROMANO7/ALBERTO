@@ -46,7 +46,7 @@ const defaultMenu = {
 ┗━━◘
 
 ┏━━⊜ *_INFO BOT_* ━⊜
-┃⋄ 👤 *Owner*: @50499698072
+┃⋄ 👤 *Owner*: @79220996692
 ┃⋄ 💻 *Versión*: %version
 ┃⋄ 📊 *Usuarios*: %totalreg
 ┃⋄ 🗃️ *Lib*: Baileys-MD
