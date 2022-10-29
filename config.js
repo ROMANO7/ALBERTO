@@ -5,10 +5,8 @@ import fs from 'fs'
  
 //᭥🌅᭢ᏢϴΝ ᏞϴՏ ΝႮ́ᎷᎬᎡϴՏ ϘႮᎬ ϘႮᏆᎬᎡᎪՏ᭥🌅᭢
 global.owner = [
-  ['50499698072', 'ī.am/☪︎𝐀𝐥𝐛𝐞𝐫𝐭𝐨🍃/ღᴀ', true],
-  ['380945356128', '🌿◌*̥₊⃬𝕬⃬𝖑𝖇⃬𝖊𝖗⃬𝖙𝖔⃬✭⃟྾⃦ᴀღᴀ', true],
-  ['19045209846', 'LevelUp㋡', true],
-  ['50246028932', 'SinNombre', true]
+  ['972557223624', 'BOT-BRAVEHEART', true],
+  ['13607277031']
 ]
 global.mods = [] 
 global.prems = [] 
@@ -83,19 +81,19 @@ global.author = `
 
 
 //᭥🍁᭢━━━━◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞━━━━᭥🍁᭢
-global.ignyc = '\n🐱⸽⃕𝕹ʏᴀɴ𝕮ᴀᴛ𝕭ᴏᴛ🍁⃨፝⃕✰\n⚘Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘\n' 
-global.wm = '\n🐱⸽⃕𝕹ʏᴀɴ𝕮ᴀᴛ𝕭ᴏᴛ🍁⃨፝⃕✰\n⚘Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘\n' 
-global.botname = '🐱⸽⃕𝕹ʏᴀɴ𝕮ᴀᴛ𝕭ᴏᴛ🍁⃨፝⃕✰'
-global.me = '⚘Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘'
+global.ignyc = 'BRAVE_HEART' 
+global.wm = 'BRAVE_HEART' 
+global.botname = 'BOT-BRAVEHEART'
+global.me = 'BRAVE-HEART'
 //╰─────────────────────╯
 
 
 //Texto
-	global.adimagen = `🌅| Iᴍᴀ́ɢᴇɴᴇs Bʏ NʏᴀɴCᴀᴛBᴏᴛ🌿`
-	global.adanime = `🌸| Aɴɪᴍᴇ Bʏ NʏᴀɴCᴀᴛBᴏᴛ🈴`
+	global.adimagen = `🌅| Iᴍᴀ́ɢᴇɴᴇs Bʏ BRAVE_HEART`
+	global.adanime = `🌸| Aɴɪᴍᴇ Bʏ BRAVE_HEART`
 	global.adyoutube = `🍁| Dᴇsᴄᴀʀɢᴀs ᴅᴇ YᴏᴜTᴜʙᴇ🍄`
-	global.adsticker = `🏞️| Sᴛɪᴄᴋᴇʀs Bʏ NʏᴀɴCᴀᴛBᴏᴛ🌺`
-	global.addescargas = `📤| Dᴇsᴄᴀʀɢᴀs Bʏ NʏᴀɴCᴀᴛ🌸`
+	global.adsticker = `🏞️| Sᴛɪᴄᴋᴇʀs Bʏ BRAVE_HEART`
+	global.addescargas = `📤| Dᴇsᴄᴀʀɢᴀs Bʏ BRAVE_HEART`
  
 
 //᭥🌼᭢━━━━◜𝑴𝑺𝑮 𝑫𝑬 𝑬𝑺𝑷𝑬𝑹𝑨◞━━━━᭥🌼᭢
