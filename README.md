@@ -33,7 +33,7 @@
 <a href="https://www.mediafire.com/file/nbe32g0kjl99yul/Termux_0.119.1.apk/file
 " target="_blank"> <img src="https://img.shields.io/badge/-DESCARGAR_TERMUX-%23E4405F?style=for-the-badge&logo=DESCARGAR_TERMUX&logoColor=black" target="_blank"></a> <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px">
 
-### `—◉ INSTALACIÓN TERMUX`
+### `—◉ INSTALACIÓN TERMUX`  EN VPS USAR apt install
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > termux-setup-storage
@@ -47,8 +47,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd NyanCatBot-MD
 > npm i
 > npm update
-> yarn install
-> npm start
+> yarn install  
+> npm start  
 ```
 
 ## `COLABORADORES DEL BOT` 
